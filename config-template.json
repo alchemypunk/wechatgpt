@@ -1,9 +1,9 @@
 { 
   "open_ai_api_key": "YOUR API KEY",
   "single_chat_prefix": ["bot", "@bot"],
-  "single_chat_reply_prefix": ["bot"],
+  "single_chat_reply_prefix": "🤖️",
   "group_chat_prefix": ["@bot"],
-  "group_name_white_list": ["Qun1", "Qun2"],
+  "group_name_white_list": ["ALL_GROUP"],
   "image_create_prefix": ["Photo", "Design"],
   "conversation_max_tokens": 1000,
   "character_desc": "我是人工智能 GPT, 一个由 OpenAI 训练的大型语言模型，版本为 GPT-3, 目前支持对话、搜索、画图。"
